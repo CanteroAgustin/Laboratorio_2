@@ -8,12 +8,26 @@ using Ej18_Computadora2;
 
 namespace Ej18_Computadora1
 {
+    
     class Computadora
     {
+        public const string encendida = "Encendida";
+        public const string noEncendida = "Apagada";
         private bool _estaEncendida;
         private EMarca _marca;
         private float _peso;
         private EProcesador _procesador;
+
+        public Computadora(bool estaEncendida, EMarca marca, float peso, EProcesador procesador)
+        {
+            this._estaEncendida = estaEncendida;
+            this._marca = marca;
+            this._peso = peso;
+            this._procesador = procesador;
+            Encender();
+            Apagar();
+            InformarEstado(estaEncendida, marca, peso, procesador);
+        }
 
         public bool getEstaEncendida()
         {
@@ -53,6 +67,38 @@ namespace Ej18_Computadora1
         public void set(EProcesador procesador)
         {
             this._procesador = procesador;
+        }
+
+        public void InformarEstado(bool estaEncendida, EMarca marca, float peso, EProcesador procesador)
+        {
+            Console.WriteLine("Marca: " + marca);
+            Console.WriteLine("Peso: "+ peso);
+            Console.WriteLine("Procesador: "+ procesador);
+            if (estaEncendida == true)
+            {
+                Console.WriteLine("Estado: " + encendida);
+            }
+            else
+            {
+                Console.WriteLine("Estado: " + noEncendida);
+            }
+            
+        }
+
+        public void Encender()
+        {
+            if (_estaEncendida != true)
+            {
+                _estaEncendida = true;
+            }
+        }
+
+        public void Apagar()
+        {
+            if (_estaEncendida != false)
+            {
+                _estaEncendida = false;
+            }
         }
     }
 
