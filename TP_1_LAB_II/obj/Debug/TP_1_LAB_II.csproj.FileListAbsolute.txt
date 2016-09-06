@@ -1,0 +1,10 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Form1.resources
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Properties.Resources.resources
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csproj.GenerateResource.Cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb
