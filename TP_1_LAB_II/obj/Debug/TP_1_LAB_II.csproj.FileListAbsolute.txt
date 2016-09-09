@@ -8,3 +8,18 @@ C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cua
 C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csproj.GenerateResource.Cache
 C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
 C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb
+F:\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+F:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
+F:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb
+D:\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+D:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
+D:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb
+D:\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe
+D:\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.pdb
+D:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csprojResolveAssemblyReference.cache
+D:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Form1.resources
+D:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.Properties.Resources.resources
+D:\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.csproj.GenerateResource.Cache
+C:\Users\agustin.cantero\Desktop\Agustin.Cantero\TP_1_LAB_II\bin\Debug\TP_1_LAB_II.exe.config
+C:\Users\agustin.cantero\Desktop\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.exe
+C:\Users\agustin.cantero\Desktop\Agustin.Cantero\TP_1_LAB_II\obj\Debug\TP_1_LAB_II.pdb

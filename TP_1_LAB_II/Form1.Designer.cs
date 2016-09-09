@@ -43,7 +43,6 @@
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(0, 13);
             this.lblResultado.TabIndex = 0;
-            this.lblResultado.Click += new System.EventHandler(this.label1_Click);
             // 
             // cmbOperacion
             // 
@@ -58,7 +57,6 @@
             this.cmbOperacion.Name = "cmbOperacion";
             this.cmbOperacion.Size = new System.Drawing.Size(37, 21);
             this.cmbOperacion.TabIndex = 1;
-            this.cmbOperacion.SelectedIndexChanged += new System.EventHandler(this.cmbOperacion_SelectedIndexChanged);
             // 
             // txtNumero1
             // 
@@ -75,7 +73,6 @@
             this.txtNumero2.Size = new System.Drawing.Size(94, 20);
             this.txtNumero2.TabIndex = 3;
             this.txtNumero2.Text = "0";
-            this.txtNumero2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // btnLimpiar
             // 
@@ -109,6 +106,7 @@
             this.Controls.Add(this.cmbOperacion);
             this.Controls.Add(this.lblResultado);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Calculadora";
             this.ResumeLayout(false);

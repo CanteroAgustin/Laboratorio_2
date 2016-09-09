@@ -36,6 +36,12 @@ namespace TP_1_LAB_II
             return this.numero;
         }
 
+        /// <summary>
+        /// Recibe una cadena y valida que el contenido sea un double valido,
+        /// lo castea lo guarda en otra variable y lo devuelve.
+        /// </summary>
+        /// <param name="numeroString">Cadena a validar</param>
+        /// <returns>Contenido de la cadena casteado a double</returns>
         private static double validarNumero(string numeroString)
         {
             double numeroDouble = 0;

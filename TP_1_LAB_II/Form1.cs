@@ -17,21 +17,6 @@ namespace TP_1_LAB_II
             InitializeComponent();
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void cmbOperacion_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             this.txtNumero1.Text = "0";
