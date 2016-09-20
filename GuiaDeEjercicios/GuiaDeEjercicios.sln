@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej08-Empleados", "Ej08-Empl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej19-Boligrafos", "Ej19-Boligrafos\Ej19-Boligrafos.csproj", "{7509F2E3-92F7-4C8E-BA68-28C662DF6091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej20-PruebaGeometria", "Ej20-Geometria\Ej20-PruebaGeometria.csproj", "{1EEC98D2-CE94-4561-A07B-1A9541821E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej21-Monedas", "Ej21-Monedas\Ej21-Monedas.csproj", "{2B371C83-FDD4-46DE-BA61-6F93398E088A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +125,14 @@ Global
 		{7509F2E3-92F7-4C8E-BA68-28C662DF6091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7509F2E3-92F7-4C8E-BA68-28C662DF6091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7509F2E3-92F7-4C8E-BA68-28C662DF6091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEC98D2-CE94-4561-A07B-1A9541821E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEC98D2-CE94-4561-A07B-1A9541821E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEC98D2-CE94-4561-A07B-1A9541821E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEC98D2-CE94-4561-A07B-1A9541821E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B371C83-FDD4-46DE-BA61-6F93398E088A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B371C83-FDD4-46DE-BA61-6F93398E088A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B371C83-FDD4-46DE-BA61-6F93398E088A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B371C83-FDD4-46DE-BA61-6F93398E088A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

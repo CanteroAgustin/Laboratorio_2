@@ -1,0 +1,6 @@
+D:\Projects\cantero.agustin\Clase04\bin\Debug\Clase04.exe.config
+D:\Projects\cantero.agustin\Clase04\bin\Debug\Clase04.exe
+D:\Projects\cantero.agustin\Clase04\bin\Debug\Clase04.pdb
+D:\Projects\cantero.agustin\Clase04\obj\Debug\Clase04.exe
+D:\Projects\cantero.agustin\Clase04\obj\Debug\Clase04.pdb
+D:\Projects\cantero.agustin\Clase04\obj\Debug\Clase04.csprojResolveAssemblyReference.cache
