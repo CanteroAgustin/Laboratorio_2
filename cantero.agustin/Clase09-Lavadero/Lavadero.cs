@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clase09_Lavadero
 {
-    class Lavadero
+    public class Lavadero
     {
         private List<Vehiculo> _vehiculos;
         private float _precioAuto;
@@ -18,7 +18,7 @@ namespace Clase09_Lavadero
             get { return _vehiculos; }
         }
 
-        public string Lavadero
+        public string lavadero
         {
             get {
                 StringBuilder sb = new StringBuilder();
@@ -55,7 +55,7 @@ namespace Clase09_Lavadero
             _vehiculos = new List<Vehiculo>();
         }
 
-        public Lavadero(float precioAuto, float precioCamion, float precioMoto)
+        public Lavadero(float precioAuto, float precioCamion, float precioMoto):this()
         {
             this._precioAuto = precioAuto;
             this._precioCamion = precioCamion;
@@ -65,64 +65,49 @@ namespace Clase09_Lavadero
         public Double MostrarTotalFacturado()
         {
             double total = 0;
-            int contAuto = 0;
-            int contCamion = 0;
-            int contMoto = 0;
 
-            foreach (Vehiculo v in _vehiculos)
-            {
-                if (v is Auto)
-                {
-                    contAuto++;
-                }
-                else if (v is Camion)
-                {
-                    contCamion++;
-                }
-                else
-                {
-                    contMoto++;
-                }
-            }
-            total = (contAuto * _precioAuto) + (contCamion * _precioCamion) + (contMoto * _precioMoto);
+            total += MostrarTotalFacturado(EVehiculos.Auto);
+            total += MostrarTotalFacturado(EVehiculos.Camion);
+            total += MostrarTotalFacturado(EVehiculos.Moto);
+
             return total;
         }
 
         public Double MostrarTotalFacturado(EVehiculos vehiculo)
         {
             double total = 0;
-            int contAuto = 0;
-            int contCamion = 0;
-            int contMoto = 0;
+            float totAuto = 0;
+            float totCamion = 0;
+            float totMoto = 0;
 
             foreach (Vehiculo v in _vehiculos)
             {
                 if (v is Auto)
                 {
-                    contAuto++;
+                    totAuto += _precioAuto;
                 }
                 else if (v is Camion)
                 {
-                    contCamion++;
+                    totCamion += _precioCamion;
                 }
                 else
                 {
-                    contMoto++;
+                    totMoto += _precioMoto;
                 }
             }
+
             if (vehiculo == EVehiculos.Auto)
             {
-                total = (contAuto * _precioAuto);
+                total = totAuto;
             }
             else if (vehiculo == EVehiculos.Camion)
             {
-                total = (contCamion * _precioCamion);
+                total = totCamion;
             }
             else
             {
-                total = (contMoto * _precioMoto);
+                total = totMoto;
             }
-
             return total;
         }
 

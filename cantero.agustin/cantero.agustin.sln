@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase09", "Clase09\Clase09.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesLavadero", "Clase09-Lavadero\EntidadesLavadero.csproj", "{D3F710F4-3A6E-4CD0-A8A4-C3B9F8E74A6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{473CBEC7-5529-4A47-80E8-A98F67C862D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmPrueba", "WindowsFormsApplication1\frmPrueba.csproj", "{49DDC154-12A5-4D04-88DE-7EC580201CB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,14 @@ Global
 		{D3F710F4-3A6E-4CD0-A8A4-C3B9F8E74A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F710F4-3A6E-4CD0-A8A4-C3B9F8E74A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F710F4-3A6E-4CD0-A8A4-C3B9F8E74A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473CBEC7-5529-4A47-80E8-A98F67C862D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473CBEC7-5529-4A47-80E8-A98F67C862D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473CBEC7-5529-4A47-80E8-A98F67C862D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473CBEC7-5529-4A47-80E8-A98F67C862D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49DDC154-12A5-4D04-88DE-7EC580201CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DDC154-12A5-4D04-88DE-7EC580201CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DDC154-12A5-4D04-88DE-7EC580201CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DDC154-12A5-4D04-88DE-7EC580201CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

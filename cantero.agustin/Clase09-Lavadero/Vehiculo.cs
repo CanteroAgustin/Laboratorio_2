@@ -29,11 +29,6 @@ namespace Clase09_Lavadero
             this._marca = marca;
         }
 
-        public Vehiculo()
-        {
-            // TODO: Complete member initialization
-        }
-
         protected string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
