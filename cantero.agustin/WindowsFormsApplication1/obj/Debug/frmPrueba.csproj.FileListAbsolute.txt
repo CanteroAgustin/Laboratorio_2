@@ -13,18 +13,3 @@ D:\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\bin\De
 D:\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\bin\Debug\Clase09-Lavadero.pdb
 D:\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\frmPrueba.csprojResolveAssemblyReference.cache
 D:\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLavadero.resources
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\frmPrueba.csprojResolveAssemblyReference.cache
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAuto.resources
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCamion.resources
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLavadero.resources
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMoto.resources
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmVehiculo.resources
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\frmPrueba.csproj.GenerateResource.Cache
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\bin\Debug\Clase09-Lavadero.dll
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\bin\Debug\Clase09-Lavadero.pdb
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

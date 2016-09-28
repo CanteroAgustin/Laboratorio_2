@@ -6,6 +6,3 @@ D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\bin\Debug\Clase09-Lavade
 D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
 D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.exe
 D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.pdb
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\Prueba\bin\Debug\Prueba.exe.config
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.exe
-C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.pdb

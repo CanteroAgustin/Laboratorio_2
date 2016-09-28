@@ -43,7 +43,6 @@
             this.btnAddAuto.TabIndex = 0;
             this.btnAddAuto.Text = "(+)  Auto";
             this.btnAddAuto.UseVisualStyleBackColor = true;
-            this.btnAddAuto.Click += new System.EventHandler(this.btnAddAuto_Click);
             // 
             // btnAddMoto
             // 
@@ -53,7 +52,6 @@
             this.btnAddMoto.TabIndex = 1;
             this.btnAddMoto.Text = "(+)  Moto";
             this.btnAddMoto.UseVisualStyleBackColor = true;
-            this.btnAddMoto.Click += new System.EventHandler(this.btnAddMoto_Click);
             // 
             // btnAddCamion
             // 
@@ -63,7 +61,6 @@
             this.btnAddCamion.TabIndex = 2;
             this.btnAddCamion.Text = "(+)  Camion";
             this.btnAddCamion.UseVisualStyleBackColor = true;
-            this.btnAddCamion.Click += new System.EventHandler(this.btnAddCamion_Click);
             // 
             // btnBorrar
             // 

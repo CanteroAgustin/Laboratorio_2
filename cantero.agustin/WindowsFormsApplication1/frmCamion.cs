@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Clase09_Lavadero;
 
 namespace WindowsFormsApplication1
 {
@@ -18,13 +17,6 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        private Camion c;
-
-        public Camion camion
-        {
-            get { return c; }
-        }
-        
         private void frmCamion_Load(object sender, EventArgs e)
         {
 

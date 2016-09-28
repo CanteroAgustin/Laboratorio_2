@@ -18,7 +18,6 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
             cmbMarca.DataSource = Enum.GetValues(typeof(EMarcas));
-
         }
 
         private void frmVehiculo_Load(object sender, EventArgs e)
@@ -28,12 +27,12 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.CancelButton = btnCancelar;
+
         }
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            this.AcceptButton = btnAceptar;
+         
         }
     }
 }

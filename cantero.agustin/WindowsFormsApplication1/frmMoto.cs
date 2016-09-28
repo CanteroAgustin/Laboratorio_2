@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Clase09_Lavadero;
 
 namespace WindowsFormsApplication1
 {
@@ -18,13 +17,6 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        private Moto m;
-
-        public Moto moto
-        {
-            get { return m; }
-        }
-        
         private void frmMoto_Load(object sender, EventArgs e)
         {
 
