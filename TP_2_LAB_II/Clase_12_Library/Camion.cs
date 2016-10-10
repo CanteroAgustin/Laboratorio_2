@@ -7,7 +7,7 @@ using Clase_12_Library_2;
 
 namespace Clase_12_Library
 {
-    public class Camion : Vehiculo
+    public class Camion : Vehiculo //Se modifico para que camion herede de vehiculo
     {
         public Camion(Vehiculo.EMarca marca, string patente, ConsoleColor color)
             : base(patente, marca, color)
@@ -16,12 +16,12 @@ namespace Clase_12_Library
         /// <summary>
         /// Los camiones tienen 8 ruedas
         /// </summary>
-        public override short CantidadRuedas
+        public override short CantidadRuedas //se sobrescribe el metodo
         {
             get
             {
                 return 8;
-            }   
+            }
         }
 
         public override sealed string Mostrar()
@@ -30,11 +30,11 @@ namespace Clase_12_Library
 
             sb.AppendLine("CAMION");
             sb.AppendLine(base.Mostrar());
-            sb.AppendFormat("RUEDAS : {0}", this.CantidadRuedas);
+            sb.AppendFormat("RUEDAS : {0}", this.CantidadRuedas); //Se utiliza appendformat que admite este tipo de formato 
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
-            return sb.ToString();
+            return sb.ToString(); //Se castea a string
         }
     }
 }

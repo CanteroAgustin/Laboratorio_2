@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clase_12_Library;
-using Clase_12_Library_2;
+using Clase_12_Library; //Se agregan las directivas using necesarias
+using Clase_12_Library_2; //Se agregan las directivas using necesarias
 
 namespace Clase_12_Library
 {
-    public class Concecionaria 
+    public class Concecionaria //Esta clase no deberia ser abstracta ya que necesita poder instanciarse
     {
         List<Vehiculo> _vehiculos;
         int _espacioDisponible;
@@ -22,7 +22,7 @@ namespace Clase_12_Library
         {
             this._vehiculos = new List<Vehiculo>();
         }
-        public Concecionaria(int espacioDisponible):this()
+        public Concecionaria(int espacioDisponible):this() //Se llama al constructor sin parametros para inicializar la lista
         {
             this._espacioDisponible = espacioDisponible;
         }
@@ -33,7 +33,7 @@ namespace Clase_12_Library
         /// Muestro la concecionaria y TODOS los vehículos
         /// </summary>
         /// <returns></returns>
-        public override string ToString()
+        public override string ToString() //Se sobrescribe el metodo padre
         {
             return Concecionaria.Mostrar(this, ETipo.Todos);
         }
@@ -56,7 +56,7 @@ namespace Clase_12_Library
             sb.AppendLine("");
             foreach (Vehiculo v in concecionaria._vehiculos)
             {
-                switch (tipoDeVehiculo)
+                switch (tipoDeVehiculo) //Se agrega validacion necesaria para discernir cual es el vehiculo
                 {
                     case ETipo.Automovil:
                         if (v.CantidadRuedas == 4)
@@ -82,7 +82,7 @@ namespace Clase_12_Library
                 }
             }
 
-            return sb.ToString();
+            return sb.ToString(); //Se castea a string 
         }
         #endregion
 

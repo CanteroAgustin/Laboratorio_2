@@ -15,3 +15,8 @@ C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Libr
 C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
 C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
 C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12_Library\obj\Debug\Clase_12_Library.pdb

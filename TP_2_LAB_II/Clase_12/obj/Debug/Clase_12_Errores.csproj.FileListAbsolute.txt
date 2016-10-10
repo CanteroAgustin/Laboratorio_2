@@ -25,3 +25,11 @@ C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
 C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
 C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
 C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\bin\Debug\Clase_12.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\obj\Debug\Clase_12.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\obj\Debug\Clase_12.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\bin\Debug\Clase_12.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\bin\Debug\Clase_12.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\bin\Debug\Clase_12_Library.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\bin\Debug\Clase_12_Library.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\TP_2\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache

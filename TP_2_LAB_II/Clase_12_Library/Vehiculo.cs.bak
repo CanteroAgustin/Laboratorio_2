@@ -27,7 +27,7 @@ namespace Clase_12_Library_2
         /// <summary>
         /// Retornará la cantidad de ruedas del vehículo
         /// </summary>
-        public virtual short CantidadRuedas { get; set; }//debe ser virtual y publico
+        public virtual short CantidadRuedas { get; set; }
 
         public virtual string Mostrar()
         {
@@ -38,7 +38,7 @@ namespace Clase_12_Library_2
             sb.AppendFormat("COLOR  : {0}\r\n", this._color.ToString());
             sb.AppendLine("---------------------");
 
-            return sb.ToString(); //casteo a string por que el tipo de retorno del metodo es string
+            return sb.ToString(); //casteo a string
         }
 
         /// <summary>
@@ -47,7 +47,7 @@ namespace Clase_12_Library_2
         /// <param name="v1"></param>
         /// <param name="v2"></param>
         /// <returns></returns>
-        public static bool operator ==(Vehiculo v1, Vehiculo v2)//Se completo este metodo para que cumpla con la funcilonalidad esperada
+        public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
             bool retorno = false;
             if (v1._patente.Equals(v2._patente))

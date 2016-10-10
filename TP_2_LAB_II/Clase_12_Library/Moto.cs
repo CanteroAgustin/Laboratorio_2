@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
-using Clase_12_Library_2;
+using Clase_12_Library_2; //Se agrego directiva using necesarias
 
 namespace Clase_12_Library
 {
-    public class Moto : Vehiculo
+    public class Moto : Vehiculo //Se hereda de vehiculo y se hace publica
     {
         public Moto(Vehiculo.EMarca marca, string patente, ConsoleColor color)
             : base(patente, marca, color)
@@ -31,11 +31,11 @@ namespace Clase_12_Library
 
             sb.AppendLine("MOTO");
             sb.AppendLine(base.Mostrar());
-            sb.AppendFormat("RUEDAS : {0}", this.CantidadRuedas);
+            sb.AppendFormat("RUEDAS : {0}", this.CantidadRuedas);//Se utiliza appendformat
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
-            return sb.ToString();
+            return sb.ToString(); //Se castea a string
         }
     }
 }
