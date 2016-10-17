@@ -1,0 +1,17 @@
+<estante>
+  <producto>
+    <marca>Favorita</marca>
+    <precio>40,25</precio>
+    <codigo>103</codigo>
+  </producto>
+  <producto>
+    <marca>Swift</marca>
+    <precio>33</precio>
+    <codigo>333</codigo>
+  </producto>
+  <producto>
+    <marca>Pitusas</marca>
+    <precio>33,65</precio>
+    <codigo>113</codigo>
+  </producto>
+</estante>
