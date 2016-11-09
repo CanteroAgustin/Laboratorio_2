@@ -1,0 +1,10 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

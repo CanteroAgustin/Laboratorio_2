@@ -1,0 +1,35 @@
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\Excepciones.dll
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\bin\Debug\Excepciones.pdb
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\Cantero.Agustin.2_D.TP3\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\EntidadesAbstractas\obj\Debug\ClassLibrary2.pdb

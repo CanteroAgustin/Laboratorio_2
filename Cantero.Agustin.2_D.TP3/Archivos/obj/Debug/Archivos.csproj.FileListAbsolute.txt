@@ -1,0 +1,41 @@
+D:\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Archivos\obj\Debug\Archivos.pdb

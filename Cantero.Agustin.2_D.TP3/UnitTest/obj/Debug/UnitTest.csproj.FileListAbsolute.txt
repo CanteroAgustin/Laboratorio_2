@@ -1,0 +1,45 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Archivos.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\EntidadesInstanciables.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Prueba.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Archivos.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Prueba.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Archivos.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\ClassLibrary2.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\EntidadesInstanciables.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Prueba.exe
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Archivos.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\ClassLibrary2.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Prueba.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Archivos.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\ClassLibrary2.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\EntidadesInstanciables.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Prueba.exe
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Archivos.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\ClassLibrary2.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\bin\Debug\Prueba.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\UnitTest\obj\Debug\UnitTest.pdb

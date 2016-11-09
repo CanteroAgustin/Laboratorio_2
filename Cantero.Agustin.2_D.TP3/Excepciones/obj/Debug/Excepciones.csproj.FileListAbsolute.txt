@@ -1,0 +1,25 @@
+D:\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\alumno\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\agustin\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\agustin.cantero\Desktop\Cantero.Agustin.2_D.TP3\Excepciones\obj\Debug\Excepciones.pdb
